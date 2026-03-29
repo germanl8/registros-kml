@@ -16,5 +16,10 @@
 <description><![CDATA[<b>Area:</b> Tramo 2 Sector E<br><br><b>Relevado por:</b> Pelado<br><b>Fecha y hora:</b> 29/03/2026 17:26<br><b>Especie:</b> Delfin<br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 1<br><b>Referencia:</b> media 150cm<br><b>Notas:</b> prueba nota<br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_3_0.jpg" width="300"/><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_3_1.jpg" width="300"/>]]></description>
 <Point><coordinates>-54.5953010128627,-34.814013183937625,0</coordinates></Point>
 </Placemark>
+<Placemark>
+<name>19/03/2026 - 18:15 - Delfin com?n </name>
+<description><![CDATA[<b>Area:</b> Tramo 2 Sector D<br><br><b>Relevado por:</b> German<br><b>Fecha y hora:</b> 19/03/2026 18:15<br><b>Especie:</b> Delfin com?n <br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 1<br><b>Referencia:</b> No aplica<br><b>Notas:</b> Notas prueba <br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_4_0.jpg" width="300"/>]]></description>
+<Point><coordinates>-54.681358,-34.84479,0</coordinates></Point>
+</Placemark>
 </Document>
 </kml>
