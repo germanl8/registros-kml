@@ -6,5 +6,10 @@
 <description><![CDATA[<b>Area:</b> Tramo 2 Sector E<br><br><b>Relevado por:</b> German<br><b>Fecha y hora:</b> 29/03/2026 12:36<br><b>Especie:</b> Francisc<br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 5<br><b>Referencia:</b> Test referencia<br><b>Notas:</b> Nota prueba<br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1_0.jpg" width="300"/>]]></description>
 <Point><coordinates>-54.619812,-34.820195,0</coordinates></Point>
 </Placemark>
+<Placemark>
+<name>29/03/2026 - 14:35 - Lobo marino</name>
+<description><![CDATA[<b>Area:</b> Tramo 2 Sector D<br><br><b>Relevado por:</b> German<br><b>Fecha y hora:</b> 29/03/2026 14:35<br><b>Especie:</b> Lobo marino<br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 3<br><b>Referencia:</b> Prueba referencia<br><b>Notas:</b> Prueba notas<br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_2_0.jpg" width="300"/>]]></description>
+<Point><coordinates>-54.659143,-34.838654,0</coordinates></Point>
+</Placemark>
 </Document>
 </kml>
