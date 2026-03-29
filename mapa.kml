@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
-</Document>
+<Placemark><name>Test referencia</name><Point><coordinates>-34.820195,-54.619812,0</coordinates></Point></Placemark></Document>
 </kml>
