@@ -2,8 +2,8 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document>
 <Placemark>
-<name>Test referencia</name>
-<description><![CDATA[<b>Especie:</b> Test referencia<br><b>Tipo:</b> 5<br><b>Fecha:</b> Sat Dec 30 1899 12:36:00 GMT-0416 (Argentina Standard Time) Carcasa<br><b>Registrante:</b> German<br><b>Tramo:</b> Tramo 2<br><b>Sector:</b> Sector E<br><b>C?digo conservaci?n:</b> Francisc<br><b>Referencia:</b> https://drive.google.com/open?id=1RkT7oY9ajLmVjKyWaLz9ZmwwKUD5hnqN<br><b>Notas:</b> <br><br><img src="Nota prueba" width="300"/>]]></description>
+<name>Sat Dec 30 1899 12:36:00 GMT-0416 (Argentina Standard Time)</name>
+<description><![CDATA[<b>Especie:</b> Francisc<br><b>Tipo:</b> 5<br><b>Fecha:</b> Sat Dec 30 1899 12:36:00 GMT-0416 (Argentina Standard Time) Carcasa<br><b>Relevado por:</b> German<br><b>Tramo:</b> Tramo 2<br><b>Sector:</b> Sector E<br><b>C?digo conservaci?n:</b> 5<br><b>Referencia:</b> Test referencia<br><b>Notas:</b> Nota prueba<br><br><img src="https://drive.google.com/open?id=1RkT7oY9ajLmVjKyWaLz9ZmwwKUD5hnqN" width="300"/>]]></description>
 <Point><coordinates>-54.619812,-34.820195,0</coordinates></Point>
 </Placemark>
 </Document>
