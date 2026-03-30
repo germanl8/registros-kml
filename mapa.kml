@@ -21,5 +21,10 @@
 <description><![CDATA[<b>Area:</b> Tramo 2 Sector D<br><br><b>Relevado por:</b> German<br><b>Fecha y hora:</b> 19/03/2026 18:15<br><b>Especie:</b> Delfin com?n <br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 1<br><b>Referencia:</b> No aplica<br><b>Notas:</b> Notas prueba <br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_4_0.jpg" width="300"/<br>]]></description>
 <Point><coordinates>-54.681358,-34.84479,0</coordinates></Point>
 </Placemark>
+<Placemark>
+<name>30/03/2026 - 16:11 - Tursiops truncatus</name>
+<description><![CDATA[<b>Area:</b> Tramo 2 Sector D<br><br><b>Relevado por:</b> Pablo Rubens Faget<br><b>Fecha y hora:</b> 30/03/2026 16:11<br><b>Especie:</b> Tursiops truncatus<br><b>Tipo:</b> Carcasa<br><b>Codigo de conservacion:</b> 3<br><b>Referencia:</b> Chancleta<br><b>Notas:</b> Irreconocible<br><br><img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_5_0.jpg" width="300"/<br>]]></description>
+<Point><coordinates>-54.642549,-34.835263,0</coordinates></Point>
+</Placemark>
 </Document>
 </kml>
