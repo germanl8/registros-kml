@@ -63,6 +63,30 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder xmlns="">
+            <name>202603</name>
+            <Placemark>
+              <name>29/03/2026 - Lobo marino</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector D&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; German&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 29/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Lobo marino&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 3&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; Prueba referencia&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; Prueba notas&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978503391_0.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.659143,-34.838654,0</coordinates>
+              </Point>
+            </Placemark>
+            <Placemark>
+              <name>19/03/2026 - Delfin com?n</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector D&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; German&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 19/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Delfin com?n &lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 1&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; No aplica&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; Notas prueba &lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978515363_0.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.681358,-34.84479,0</coordinates>
+              </Point>
+            </Placemark>
+            <Placemark>
+              <name>30/03/2026 - Tursiops truncatus</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector D&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; Pablo Rubens Faget&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 30/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Tursiops truncatus&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 3&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; Chancleta&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; Irreconocible&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978516820_0.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.642549,-34.835263,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <!-- SECTOR E -->
@@ -85,6 +109,23 @@
             <Placemark>
               <name>29/03/2026 - Delfin</name>
               <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector E&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; Pelado&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 29/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Delfin&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 1&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; media 150cm&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; prueba nota&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774977410131_0.jpg" width="300"/&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774977412004_1.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.5953010128627,-34.814013183937625,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
+          <Folder xmlns="">
+            <name>202603</name>
+            <Placemark>
+              <name>29/03/2026 - Francisc</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector E&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; German&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 29/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Francisc&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 5&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; Test referencia&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; Nota prueba&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978496676_0.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.619812,-34.820195,0</coordinates>
+              </Point>
+            </Placemark>
+            <Placemark>
+              <name>29/03/2026 - Delfin</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector E&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; Pelado&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 29/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Delfin&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 1&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; media 150cm&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; prueba nota&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978510880_0.jpg" width="300"/&gt;&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1774978512958_1.jpg" width="300"/&gt;&lt;br&gt;</description>
               <Point>
                 <coordinates>-54.5953010128627,-34.814013183937625,0</coordinates>
               </Point>
