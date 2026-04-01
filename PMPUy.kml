@@ -976,40 +976,8 @@
 
         <Folder>
           <name>Registros</name>
-
- <Folder>
-            <name>202603</name>
-            <open>1</open>
-            <Placemark>
-              <name>T2_20260325_1400_01</name>
-              <description><![CDATA[?rea: Tramo 2 | Sector B<br><br>
-
-Fecha: 25/03/2026<br>
-Hora: 14:00 am<br>
-Tipo: Carcasa<br>
-C?digo de conservaci?n: 2<br>
-Especie: Delphinus delphis<br>
-Referencia: n/a<br>
-Registrante: Pablo Faget<br><br>
-
-<img style="max-width:500px;" src="file:///C:/Users/gleguizamon/OneDrive - MIC/Desktop/Personal/costeros/registros/T2_20260325_1400_01_01.jpeg"><img style="max-width:500px;" src="file:///C:/Users/gleguizamon/OneDrive - MIC/Desktop/Personal/costeros/registros/T2_20260325_1400_01_02.jpeg">]]></description>
-              <LookAt>
-                <longitude>-55.25201947980862</longitude>
-                <latitude>-34.90100158912806</latitude>
-                <altitude>0</altitude>
-                <heading>-0.3122442478743801</heading>
-                <tilt>25.88975714583103</tilt>
-                <range>214.6236031149665</range>
-                <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <gx:drawOrder>1</gx:drawOrder>
-                <coordinates>-55.25177270509252,-34.90111641504231,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
         </Folder>
+
       </Folder>
       <Folder>
         <name>PMPuy | Tramo 2 | Sector C</name>
