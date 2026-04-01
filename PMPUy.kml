@@ -10,67 +10,27 @@
       <!-- SECTOR A -->
       <Folder>
         <name>PMPUy | Tramo 2 | Sector A</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
+        <Folder />
       </Folder>
       <!-- SECTOR B -->
       <Folder>
         <name>PMPUy | Tramo 2 | Sector B</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
+        <Folder />
       </Folder>
       <!-- SECTOR C -->
       <Folder>
         <name>PMPUy | Tramo 2 | Sector C</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
+        <Folder />
       </Folder>
       <!-- SECTOR D -->
       <Folder>
         <name>PMPUy | Tramo 2 | Sector D</name>
-        <Folder>
-          <name>Registros</name>
-          <Folder xmlns="">
-            <name>202604</name>
-            <Placemark>
-              <name>01/04/2026 - Tortuga</name>
-              <Point>
-                <coordinates>-54.642549,-34.835263,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>04/01/2026 - pinnipedo</name>
-              <Point>
-                <coordinates>-54.69948791546768,-34.850654936062284,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
-          <Folder xmlns="">
-            <name>202601</name>
-            <Placemark>
-              <name>04/01/2026 - Delfin comun</name>
-              <Point>
-                <coordinates>-54.671466570774776,-34.84209500031968,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>04/01/2026 - pinnipedo</name>
-              <Point>
-                <coordinates>-54.69987387629494,-34.850890363636985,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
-        </Folder>
+        <Folder />
       </Folder>
       <!-- SECTOR E -->
       <Folder>
         <name>PMPUy | Tramo 2 | Sector E</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
+        <Folder />
       </Folder>
     </Folder>
   </Document>
