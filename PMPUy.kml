@@ -973,11 +973,9 @@
             </LineString>
           </Placemark>
         </Folder>
-
         <Folder>
           <name>Registros</name>
         </Folder>
-
       </Folder>
       <Folder>
         <name>PMPuy | Tramo 2 | Sector C</name>
@@ -1036,6 +1034,15 @@
         <name>PMPuy | Tramo 2 | Sector D</name>
         <Folder>
           <name>Registros</name>
+          <Folder xmlns="">
+            <name>202601</name>
+            <Placemark>
+              <name>04/01/2026 - Delfin Comun</name>
+              <Point>
+                <coordinates>-54.6811005942217,-34.8446859093886,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
