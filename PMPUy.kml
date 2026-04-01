@@ -41,6 +41,12 @@
                 <coordinates>-54.642549,-34.835263,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>04/01/2026 - pinnipedo</name>
+              <Point>
+                <coordinates>-54.69948791546768,-34.850654936062284,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder xmlns="">
             <name>202601</name>
