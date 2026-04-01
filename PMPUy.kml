@@ -1043,6 +1043,15 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder xmlns="">
+            <name>202601</name>
+            <Placemark>
+              <name>01/04/2026 - Pinnipedo</name>
+              <Point>
+                <coordinates>-54.65260299760847,-34.83868040975146,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
