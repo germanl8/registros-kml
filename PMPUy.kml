@@ -1366,34 +1366,7 @@ Registrante: Pablo Faget<br><br>
                 <coordinates>-54.59522222222223,-34.81488888888889,0</coordinates>
               </Point>
             </Placemark>
-            <Placemark>
-              <name>T2_20260327_1330_02</name>
-              <description><![CDATA[?rea: Tramo 2 | Sector E<br><br>
-
-Fecha: 27/03/2026<br>
-Hora: 13:30<br>
-C?digo de conservaci?n: 4<br>
-Especie: Lobo Marino<br>
-Referencia: n/a<br>
-Registrante: Pablo Faget<br><br>
-
-
-<img style="max-width:500px;" src="file:///C:/Users/gleguizamon/OneDrive - MIC/Desktop/Personal/costeros/registros/T2_20260327_1330_02_00.jpeg">]]></description>
-              <LookAt>
-                <longitude>-54.53069966020959</longitude>
-                <latitude>-34.79971237346951</latitude>
-                <altitude>0</altitude>
-                <heading>-0.2664902570600066</heading>
-                <tilt>44.24273051791656</tilt>
-                <range>29588.93676090561</range>
-                <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-              </LookAt>
-              <styleUrl>#msn_Gemini_Generated_Image_b8n160b8n160b8n10</styleUrl>
-              <Point>
-                <gx:drawOrder>1</gx:drawOrder>
-                <coordinates>-54.59297222222222,-34.81377777777777,0</coordinates>
-              </Point>
-            </Placemark>
+           
           </Folder>
         </Folder>
         <Folder>
