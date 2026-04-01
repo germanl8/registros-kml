@@ -978,7 +978,6 @@
           <Folder>
             <name>202603</name>
             <open>1</open>
-           
             <Placemark>
               <name>T2_20260325_1400_01</name>
               <description><![CDATA[?rea: Tramo 2 | Sector B<br><br>
@@ -1195,6 +1194,15 @@ Registrante: Pablo Faget<br><br>
               </Point>
             </Placemark>
           </Folder>
+          <Folder xmlns="">
+            <name>202601</name>
+            <Placemark>
+              <name>04/01/2026 - delfin comun</name>
+              <Point>
+                <coordinates>-54.71639372855577,-34.85720272504767,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
@@ -1366,7 +1374,6 @@ Registrante: Pablo Faget<br><br>
                 <coordinates>-54.59522222222223,-34.81488888888889,0</coordinates>
               </Point>
             </Placemark>
-           
           </Folder>
         </Folder>
         <Folder>
