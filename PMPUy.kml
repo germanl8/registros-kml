@@ -42,6 +42,15 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder xmlns="">
+            <name>202601</name>
+            <Placemark>
+              <name>04/01/2026 - Delfin comun</name>
+              <Point>
+                <coordinates>-54.671466570774776,-34.84209500031968,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <!-- SECTOR E -->
