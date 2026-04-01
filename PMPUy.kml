@@ -1035,15 +1035,6 @@
         <Folder>
           <name>Registros</name>
           <Folder xmlns="">
-            <name>202601</name>
-            <Placemark>
-              <name>04/01/2026 - Delfin Comun</name>
-              <Point>
-                <coordinates>-54.6811005942217,-34.8446859093886,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
-          <Folder xmlns="">
             <name>202604</name>
             <Placemark>
               <name>04/01/2026 - Delfin Comun</name>
