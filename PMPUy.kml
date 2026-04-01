@@ -1,58 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
-
-<Document>
-  <name>PMPUy</name>
-
-  <!-- ========================= -->
-  <!-- TRAMO 2 -->
-  <!-- ========================= -->
-
-  <Folder>
-    <name>PMPUy | Tramo 2</name>
-
-    <!-- SECTOR A -->
+  <Document>
+    <name>PMPUy</name>
+    <!-- ========================= -->
+    <!-- TRAMO 2 -->
+    <!-- ========================= -->
     <Folder>
-      <name>PMPUy | Tramo 2 | Sector A</name>
+      <name>PMPUy | Tramo 2</name>
+      <!-- SECTOR A -->
       <Folder>
-        <name>Registros</name>
+        <name>PMPUy | Tramo 2 | Sector A</name>
+        <Folder>
+          <name>Registros</name>
+        </Folder>
+      </Folder>
+      <!-- SECTOR B -->
+      <Folder>
+        <name>PMPUy | Tramo 2 | Sector B</name>
+        <Folder>
+          <name>Registros</name>
+        </Folder>
+      </Folder>
+      <!-- SECTOR C -->
+      <Folder>
+        <name>PMPUy | Tramo 2 | Sector C</name>
+        <Folder>
+          <name>Registros</name>
+        </Folder>
+      </Folder>
+      <!-- SECTOR D -->
+      <Folder>
+        <name>PMPUy | Tramo 2 | Sector D</name>
+        <Folder>
+          <name>Registros</name>
+        </Folder>
+      </Folder>
+      <!-- SECTOR E -->
+      <Folder>
+        <name>PMPUy | Tramo 2 | Sector E</name>
+        <Folder>
+          <name>Registros</name>
+        </Folder>
       </Folder>
     </Folder>
-
-    <!-- SECTOR B -->
-    <Folder>
-      <name>PMPUy | Tramo 2 | Sector B</name>
-      <Folder>
-        <name>Registros</name>
-      </Folder>
-    </Folder>
-
-    <!-- SECTOR C -->
-    <Folder>
-      <name>PMPUy | Tramo 2 | Sector C</name>
-      <Folder>
-        <name>Registros</name>
-      </Folder>
-    </Folder>
-
-    <!-- SECTOR D -->
-    <Folder>
-      <name>PMPUy | Tramo 2 | Sector D</name>
-      <Folder>
-        <name>Registros</name>
-      </Folder>
-    </Folder>
-
-    <!-- SECTOR E -->
-    <Folder>
-      <name>PMPUy | Tramo 2 | Sector E</name>
-      <Folder>
-        <name>Registros</name>
-      </Folder>
-    </Folder>
-
-  </Folder>
-
-</Document>
+  </Document>
 </kml>
 
