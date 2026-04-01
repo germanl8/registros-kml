@@ -1042,6 +1042,12 @@
                 <coordinates>-54.6811005942217,-34.8446859093886,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>04/01/2026 - Pinnipedo</name>
+              <Point>
+                <coordinates>-54.65260299760847,-34.83868040975146,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder xmlns="">
             <name>202601</name>
