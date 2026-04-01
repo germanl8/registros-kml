@@ -875,6 +875,9 @@
       <Folder>
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
+				  <name>Registros</name>
+		  	</Folder>
+        <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
           <Placemark>
             <name>Distancia - PMPuy | Tramo 2 | Sector A</name>
@@ -930,6 +933,9 @@
       <Folder>
         <name>PMPuy | Tramo 2 | Sector B</name>
         <Folder>
+				  <name>Registros</name>
+		  	</Folder>
+        <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector B</name>
           <Placemark>
             <name>PMPuy | Tramo 2 | Sector B</name>
@@ -977,6 +983,9 @@
         <name>PMPuy | Tramo 2 | Sector C</name>
         <name>PMPuy | Tramo 2 | Sector C</name>
         <Folder />
+        <Folder>
+				  <name>Registros</name>
+		  	</Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector B</name>
           <Placemark>
@@ -1028,6 +1037,9 @@
         <name>PMPuy | Tramo 2 | Sector D</name>
         <Folder />
         <Folder>
+				  <name>Registros</name>
+		  	</Folder>
+        <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
           <Placemark>
             <name>PMPuy | Tramo 2 | Sector D</name>
@@ -1073,6 +1085,9 @@
       <Folder>
         <name>PMPuy | Tramo 2 | Sector E</name>
         <Folder />
+        <Folder>
+				  <name>Registros</name>
+		  	</Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector E</name>
           <Placemark>
