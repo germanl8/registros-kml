@@ -50,6 +50,12 @@
                 <coordinates>-54.671466570774776,-34.84209500031968,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>04/01/2026 - pinnipedo</name>
+              <Point>
+                <coordinates>-54.69987387629494,-34.850890363636985,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
