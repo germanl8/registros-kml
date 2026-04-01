@@ -121,6 +121,16 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder xmlns="">
+            <name>202603</name>
+            <Placemark>
+              <name>30/03/2026 - Tursiops truncatus</name>
+              <description>&lt;b&gt;Area:&lt;/b&gt; Tramo 2 Sector D&lt;br&gt;&lt;br&gt;&lt;b&gt;Relevado por:&lt;/b&gt; Pablo Rubens Faget&lt;br&gt;&lt;b&gt;Fecha:&lt;/b&gt; 30/03/2026 00:00&lt;br&gt;&lt;b&gt;Especie:&lt;/b&gt; Tursiops truncatus&lt;br&gt;&lt;b&gt;Tipo:&lt;/b&gt; Carcasa&lt;br&gt;&lt;b&gt;Codigo:&lt;/b&gt; 3&lt;br&gt;&lt;b&gt;Referencia:&lt;/b&gt; Chancleta&lt;br&gt;&lt;b&gt;Notas:&lt;/b&gt; Irreconocible&lt;br&gt;&lt;br&gt;&lt;img src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775041967103_0.jpg" width="300"/&gt;&lt;br&gt;</description>
+              <Point>
+                <coordinates>-54.642549,-34.835263,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <!-- SECTOR E -->
