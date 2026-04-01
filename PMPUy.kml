@@ -1036,21 +1036,6 @@
         <name>PMPuy | Tramo 2 | Sector D</name>
         <Folder>
           <name>Registros</name>
-          <Folder xmlns="">
-            <name>202604</name>
-            <Placemark>
-              <name>01/04/2026 - pinnipedo</name>
-              <Point>
-                <coordinates>-54.69948791546768,-34.850654936062284,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>01/04/2026 - delfin comun</name>
-              <Point>
-                <coordinates>-54.71639372855577,-34.85720272504767,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
