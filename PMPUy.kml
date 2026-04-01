@@ -1016,39 +1016,6 @@ Registrante: Pablo Faget<br><br>
         <name>PMPuy | Tramo 2 | Sector C</name>
         <Folder>
           <name>Registros</name>
-          <open>1</open>
-          <Folder>
-            <name>202603</name>
-            <open>1</open>
-            <Placemark>
-              <name>T2_20260326_1050_01</name>
-              <description><![CDATA[?rea: Tramo 2 | Sector C<br><br>              <description><![CDATA[?rea: Tramo 2 | Sector C<br><br>
-
-Fecha: 26/03/2026<br>
-Hora: 10:50 am<br>
-Tipo: Carcasa<br>
-C?digo: 2<br>
-Especie: Spheniscus magellanicus<br>
-Referencia: Calzado 41<br>
-Registrante: Pablo Faget<br><br>
-
-<img style="max-width:500px;" src="file:///C:/Users/gleguizamon/OneDrive - MIC/Desktop/Personal/costeros/registros/T2_20260326_1050_01_01.jpeg"><img style="max-width:500px;" src="file:///C:/Users/gleguizamon/OneDrive - MIC/Desktop/Personal/costeros/registros/T2_20260326_1050_01_02.jpeg">]]></description>
-              <LookAt>
-                <longitude>-54.8101304270247</longitude>
-                <latitude>-34.71475163852447</latitude>
-                <altitude>0</altitude>
-                <heading>4.105104406356578</heading>
-                <tilt>18.49028694974197</tilt>
-                <range>141287.8678604428</range>
-                <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-              </LookAt>
-              <styleUrl>#msn_aves</styleUrl>
-              <Point>
-                <gx:drawOrder>1</gx:drawOrder>
-                <coordinates>-55.10522222222222,-34.87830555555556,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector B</name>
