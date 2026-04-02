@@ -872,12 +872,13 @@
           </Point>
         </Placemark>
       </Folder>
-      <Folder>
+
+      <Folder>                                <!-- Abre sector a-->
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
           <name>Registros</name>
         </Folder>
-        <Folder>
+        <Folder>   <!-- Abre Area -->
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
           <Placemark>
             <name>Distancia - PMPuy | Tramo 2 | Sector A</name>
@@ -928,12 +929,14 @@
             </Point>
           </Placemark>
         </Folder>
-        <Folder>
+  </Folder>    <!-- cierre sector a-->
+
+        <Folder>                             <!-- Abre sector B-->
           <name>PMPuy | Tramo 2 | Sector B</name>
           <Folder>
             <name>Registros</name>
           </Folder>
-          <Folder>
+          <Folder>   <!-- Abre Area sector b-->
             <name>Area - PMPuy | Tramo 2 | Sector B</name>
             <Placemark>
               <name>PMPuy | Tramo 2 | Sector B</name>
@@ -975,7 +978,6 @@
               </LineString>
             </Placemark>
           </Folder>
-          <Folder />
         </Folder>
         <Folder>
           <name>PMPuy | Tramo 2 | Sector C</name>
