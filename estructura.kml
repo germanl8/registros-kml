@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <NetworkLink>
+    <name>PMPUy</name>
+
+    <refreshVisibility>1</refreshVisibility>
+
+    <Link>
+      <href>https://script.google.com/macros/s/AKfycbXXXXXXX/exec</href>
+      <refreshMode>onInterval</refreshMode>
+      <refreshInterval>10</refreshInterval>
+    </Link>
+
+  </NetworkLink>
+</kml>
