@@ -877,15 +877,6 @@
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
           <name>Registros</name>
-          <Folder xmlns="">
-            <name>202604</name>
-            <Placemark>
-              <name>01/04/2026 - Pinnipedo</name>
-              <Point>
-                <coordinates>-55.40347380025956,-34.78962159460101,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
@@ -1038,22 +1029,6 @@
         <name>PMPuy | Tramo 2 | Sector D</name>
         <Folder>
           <name>Registros</name>
-          <Folder xmlns="">
-            <name>202604</name>
-            <Placemark>
-              <name>01/04/2026 - 21:21 - Delfin comun</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector D&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:21&lt;br&gt;Tipo: Esqueleto&lt;br&gt;C?digo de conservaci?n: 2&lt;br&gt;Especie: Delfin comun&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: notas test&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775093207519_0.jpg"/&gt;]]&gt;</description>
-              <LookAt>
-                <longitude>-54.66465411850089</longitude>
-                <latitude>-34.83993846772885</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.66465411850089,-34.83993846772885,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
@@ -1105,8 +1080,8 @@
           <Folder xmlns="">
             <name>202604</name>
             <Placemark>
-              <name>01/04/2026 - 22:30:00 - Tortuga cabezo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 22:30:00&lt;br&gt;Tipo: Esqueleto&lt;br&gt;C?digo de conservaci?n: 4&lt;br&gt;Especie: Tortuga cabezo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: ref notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775093482616_0.jpg"/&gt;]]&gt;</description>
+              <name>01/04/2026 - 21:26 - Tortuga cabezo</name>
+              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:26&lt;br&gt;Tipo: Esqueleto&lt;br&gt;C?digo de conservaci?n: 4&lt;br&gt;Especie: Tortuga cabezo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: ref notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775135468007_0.jpg"/&gt;]]&gt;</description>
               <LookAt>
                 <longitude>-54.574656267246276</longitude>
                 <latitude>-34.805533946972936</latitude>
@@ -1118,66 +1093,14 @@
               </Point>
             </Placemark>
             <Placemark>
-              <name>01/04/2026 - 22:33:00 - Pinnipedo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 22:33:00&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775093621381_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775093623703_1.jpg"/&gt;]]&gt;</description>
+              <name>01/04/2026 - 21:29 - Pinnipedo</name>
+              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:29&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775135473485_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775135475781_1.jpg"/&gt;]]&gt;</description>
               <LookAt>
                 <longitude>-54.49317900341351</longitude>
                 <latitude>-34.76699742463154</latitude>
                 <range>500</range>
               </LookAt>
               <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.49317900341351,-34.76699742463154,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>01/04/2026 - 21:29 - Pinnipedo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:29&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095126245_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095128743_1.jpg"/&gt;]]&gt;</description>
-              <LookAt>
-                <longitude>-54.49317900341351</longitude>
-                <latitude>-34.76699742463154</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#sh_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.49317900341351,-34.76699742463154,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>01/04/2026 - 21:29 - Pinnipedo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:29&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095808211_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095810138_1.jpg"/&gt;]]&gt;</description>
-              <LookAt>
-                <longitude>-54.49317900341351</longitude>
-                <latitude>-34.76699742463154</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#sh_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.49317900341351,-34.76699742463154,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>01/04/2026 - 21:29 - Pinnipedo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:29&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095854477_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775095857685_1.jpg"/&gt;]]&gt;</description>
-              <LookAt>
-                <longitude>-54.49317900341351</longitude>
-                <latitude>-34.76699742463154</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#sh_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.49317900341351,-34.76699742463154,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
-              <name>01/04/2026 - 21:29 - Pinnipedo</name>
-              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 21:29&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: test notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775096460164_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775096461826_1.jpg"/&gt;]]&gt;</description>
-              <LookAt>
-                <longitude>-54.49317900341351</longitude>
-                <latitude>-34.76699742463154</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#sh_caudal</styleUrl>
               <Point>
                 <coordinates>-54.49317900341351,-34.76699742463154,0</coordinates>
               </Point>
