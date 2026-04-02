@@ -877,6 +877,15 @@
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
           <name>Registros</name>
+          <Folder xmlns="">
+            <name>202601</name>
+            <Placemark>
+              <name>04/01/2026 - Pinnipedo</name>
+              <Point>
+                <coordinates>-55.40294392096506,-34.790056758168745,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
