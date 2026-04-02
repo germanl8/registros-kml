@@ -1077,6 +1077,22 @@
         <name>PMPuy | Tramo 2 | Sector E</name>
         <Folder>
           <name>Registros</name>
+          <Folder xmlns="">
+            <name>202604</name>
+            <Placemark>
+              <name>02/04/2026 - 10:16 - Pinnipedo</name>
+              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 02/04/2026&lt;br&gt;Hora: 10:16&lt;br&gt;Tipo: Carcasa&lt;br&gt;C?digo de conservaci?n: 5&lt;br&gt;Especie: Pinnipedo&lt;br&gt;Referencia: Ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: notas test&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775139677741_0.jpg"/&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775139679597_1.jpg"/&gt;]]&gt;</description>
+              <LookAt>
+                <longitude>-54.55957788209035</longitude>
+                <latitude>-34.7986392140075</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.55957788209035,-34.7986392140075,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector E</name>
