@@ -1102,6 +1102,22 @@
         <name>PMPuy | Tramo 2 | Sector E</name>
         <Folder>
           <name>Registros</name>
+          <Folder xmlns="">
+            <name>202604</name>
+            <Placemark>
+              <name>01/04/2026 - 22:30:00 - Tortuga cabezo</name>
+              <description>&lt;![CDATA[?rea: Tramo 2 | Sector E&lt;br&gt;&lt;br&gt;Fecha: 01/04/2026&lt;br&gt;Hora: 22:30:00&lt;br&gt;Tipo: Esqueleto&lt;br&gt;C?digo de conservaci?n: 4&lt;br&gt;Especie: Tortuga cabezo&lt;br&gt;Referencia: ref test&lt;br&gt;Registrante: German&lt;br&gt;&lt;br&gt;Notas: ref notas&lt;br&gt;&lt;br&gt;&lt;img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775093482616_0.jpg"/&gt;]]&gt;</description>
+              <LookAt>
+                <longitude>-54.574656267246276</longitude>
+                <latitude>-34.805533946972936</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.574656267246276,-34.805533946972936,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector E</name>
