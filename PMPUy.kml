@@ -875,8 +875,9 @@
       <Folder>
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
-				  <name>Registros</name>
-		  	</Folder>
+			<name>Registros</name>
+		</Folder>
+
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
           <Placemark>
@@ -928,11 +929,13 @@
             </Point>
           </Placemark>
       </Folder>
-      <Folder>
+
+     <Folder>
         <name>PMPuy | Tramo 2 | Sector B</name>
-        <Folder>
-				  <name>Registros</name>
-		  	</Folder>
+	    	<Folder>
+				 <name>Registros</name>
+			</Folder>
+
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector B</name>
           <Placemark>
@@ -978,7 +981,6 @@
         <Folder />
       </Folder>
       <Folder>
-        <name>PMPuy | Tramo 2 | Sector C</name>
         <name>PMPuy | Tramo 2 | Sector C</name>
         <Folder />
         <Folder>
@@ -1031,6 +1033,7 @@
           </Placemark>
         </Folder>
       </Folder>
+</Folder>
       <Folder>
         <name>PMPuy | Tramo 2 | Sector D</name>
         <Folder />
