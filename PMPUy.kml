@@ -1099,19 +1099,6 @@
                 <coordinates>-55.03429786966107,-34.90943046850166,0</coordinates>
               </Point>
             </Placemark>
-            <Placemark>
-              <name>05/04/2026 - 13:35 - tortuga</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 13:35<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: tortuga<br>Referencia: ref test<br>Registrante: test german<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1hzM0PP34DHEtU2w7Tiob5DWRcaljiZlk.jpg"/>]]></description>
-              <LookAt>
-                <longitude>-54.82423391363278</longitude>
-                <latitude>-34.90863263048971</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.82423391363278,-34.90863263048971,0</coordinates>
-              </Point>
-            </Placemark>
           </Folder>
         </Folder>
       </Folder>
