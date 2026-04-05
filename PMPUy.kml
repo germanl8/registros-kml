@@ -876,9 +876,6 @@
       <Folder>
         <name>PMPuy | Tramo 2 | Sector A</name>
         <Folder>
-          <name>Registros</name>
-        </Folder>
-        <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector A</name>
           <Placemark>
             <name>Distancia - PMPuy | Tramo 2 | Sector A</name>
@@ -929,13 +926,13 @@
             </Point>
           </Placemark>
         </Folder>
+        <Folder xmlns="">
+          <name>Registros</name>
+        </Folder>
       </Folder>
       <!-- ===================== SECTOR B ===================== -->
       <Folder>
         <name>PMPuy | Tramo 2 | Sector B</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector B</name>
           <Placemark>
@@ -978,13 +975,13 @@
             </LineString>
           </Placemark>
         </Folder>
+        <Folder xmlns="">
+          <name>Registros</name>
+        </Folder>
       </Folder>
       <!-- ===================== SECTOR C ===================== -->
       <Folder>
         <name>PMPuy | Tramo 2 | Sector C</name>
-        <Folder>
-          <name>Registros</name>
-        </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector C</name>
           <Placemark>
@@ -1024,28 +1021,12 @@
             </Polygon>
           </Placemark>
         </Folder>
+        <Folder xmlns="">
+          <name>Registros</name>
+        </Folder>
       </Folder>
       <Folder>
         <name>PMPuy | Tramo 2 | Sector D</name>
-        <Folder>
-          <name>Registros</name>
-          <Folder xmlns="">
-            <name>202604</name>
-            <Placemark>
-              <name>03/04/2026 - 07:41 - Careta careta</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 03/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Careta careta<br>Referencia: Huella Calzado 41 30cm<br>Registrante: Pablo Rubens Faget <br><br>Notas: Polo Club ruta 10<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1XvkLHYRwc4jGzvlFdtUODOw0iLe06noX.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1eoNEfQS-fVMbJr2xDc6gXMzk7DPViRwm.jpg"/>]]></description>
-              <LookAt>
-                <longitude>-54.746436</longitude>
-                <latitude>-34.871647</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-54.746436,-34.871647,0</coordinates>
-              </Point>
-            </Placemark>
-          </Folder>
-        </Folder>
         <Folder>
           <name>Area - PMPuy | Tramo 2 | Sector D</name>
           <Placemark>
@@ -1088,12 +1069,86 @@
             </LineString>
           </Placemark>
         </Folder>
+        <Folder xmlns="">
+          <name>Registros</name>
+          <Folder>
+            <name>202604</name>
+            <Placemark>
+              <name>03/04/2026 - 07:41 - Careta careta</name>
+              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 03/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Careta careta<br>Referencia: Huella Calzado 41 30cm<br>Registrante: Pablo Rubens Faget <br><br>Notas: Polo Club ruta 10<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1XvkLHYRwc4jGzvlFdtUODOw0iLe06noX.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1eoNEfQS-fVMbJr2xDc6gXMzk7DPViRwm.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.746436</longitude>
+                <latitude>-34.871647</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.746436,-34.871647,0</coordinates>
+              </Point>
+            </Placemark>
+            <Placemark>
+              <name>05/04/2026 - 11:08 - pinni</name>
+              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 11:08<br>Tipo: Ejemplar vivo<br>Codigo: 1<br>Especie: pinni<br>Referencia: ref<br>Registrante: ger<br><br>Notas: notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1fYKwbr0m5xAPcXf2RdzwywpUbwY2BUQ5.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-55.00781064784016</longitude>
+                <latitude>-34.909532926213686</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-55.00781064784016,-34.909532926213686,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
+        </Folder>
       </Folder>
       <Folder>
         <name>PMPuy | Tramo 2 | Sector E</name>
         <Folder>
+          <name>Area - PMPuy | Tramo 2 | Sector E</name>
+          <Placemark>
+            <name>PMPuy | Tramo 2 | Sector E</name>
+            <description>Distancia extremo a extremo Sector E: 37.5km</description>
+            <Camera>
+              <longitude>-54.66199181443409</longitude>
+              <latitude>-34.78691663894024</latitude>
+              <altitude>100404.6980732022</altitude>
+              <heading>4.685380264938996</heading>
+              <tilt>1.156065264527334</tilt>
+              <roll>5.452285883923767</roll>
+              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+            </Camera>
+            <styleUrl>#msn_E</styleUrl>
+            <Point>
+              <gx:drawOrder>1</gx:drawOrder>
+              <coordinates>-54.42036639051456,-34.73943123596455,0</coordinates>
+            </Point>
+          </Placemark>
+          <Placemark>
+            <name>PMPuy | Tramo 2 | Sector E</name>
+            <styleUrl>#msn_ylw-pushpin3</styleUrl>
+            <Polygon>
+              <tessellate>1</tessellate>
+              <outerBoundaryIs>
+                <LinearRing>
+                  <coordinates>-54.632920506216,-34.84609672381558,0 -54.62912387284773,-34.85804552116225,0 -54.61957182310396,-34.85167887367905,0 -54.61840236573744,-34.84206368851598,0 -54.6135664393992,-34.83666497643986,0 -54.6056979485029,-34.8330981288965,0 -54.59133815928895,-34.82797376255305,0 -54.56313506066805,-34.8128305652983,0 -54.50593338296551,-34.78658552463678,0 -54.47596185829497,-34.77413575174537,0 -54.44202010811959,-34.75768173247931,0 -54.40353654983397,-34.74303725192241,0 -54.3756630857887,-34.73199223127328,0 -54.3010034277299,-34.70270400409299,0 -54.27964843986594,-34.69681709820354,0 -54.28084994951958,-34.68135075840646,0 -54.29190913180749,-34.68416956117868,0 -54.33151479310539,-34.70139384000838,0 -54.35712473043143,-34.71221823426353,0 -54.39289588681479,-34.72655971500764,0 -54.42362678645548,-34.73734867363452,0 -54.46013826557501,-34.75104117522041,0 -54.49109457859832,-34.76426420099421,0 -54.50932113358738,-34.77362644282193,0 -54.53269435743245,-34.78457040282883,0 -54.54984228683422,-34.79310546310685,0 -54.57332329723196,-34.80432452522853,0 -54.57509967330908,-34.80258403086504,0 -54.59225499828301,-34.81054443226991,0 -54.60135064834529,-34.8153714962104,0 -54.61373186637443,-34.82145659832671,0 -54.62442128984749,-34.82858837654344,0 -54.62966211565088,-34.83153824827131,0 -54.6326471377438,-34.83419819305795,0 -54.6338772236614,-34.83837050438425,0 -54.63465377293667,-34.83943545814812,0 -54.6333001565938,-34.84354058677814,0 -54.63297253700117,-34.84483210745927,0 -54.63317814418552,-34.8457297867447,0 -54.632920506216,-34.84609672381558,0</coordinates>
+                </LinearRing>
+              </outerBoundaryIs>
+            </Polygon>
+          </Placemark>
+          <Placemark>
+            <name>Distancia - PMPuy | Tramo 2 | Sector E</name>
+            <description>Distancia de extremo a extremo: 37.5km</description>
+            <styleUrl>#m_ylw-pushpin</styleUrl>
+            <LineString>
+              <tessellate>1</tessellate>
+              <coordinates>-54.632914119843,-34.84607044102784,0 -54.6327112369116,-34.84561825234127,0 -54.63236392519947,-34.84534920300152,0 -54.63176367069179,-34.84538959215678,0 -54.63147053951023,-34.84524758050925,0 -54.63195800644157,-34.84492236633074,0 -54.63201028746823,-34.84492308621142,0 -54.63201776915802,-34.84492315670764,0 -54.63225971732554,-34.84454025721631,0 -54.63228947344417,-34.84454736656246,0 -54.63229698295248,-34.84454750762146,0 -54.63236549703223,-34.8445290523528,0 -54.6327157271683,-34.84266580590883,0 -54.63269143666826,-34.83951998763568,0 -54.63202262367967,-34.83840182209079,0 -54.63082233421476,-34.83629133638934,0 -54.62689080284337,-34.83195746659534,0 -54.62401770204097,-34.82982420133457,0 -54.61756750791124,-34.82500756361478,0 -54.60948301122121,-34.82120271117542,0 -54.59984955233814,-34.81663920619912,0 -54.58377558786511,-34.8093102479632,0 -54.57239672677899,-34.80419997124653,0 -54.54075729551187,-34.789439670322,0 -54.51087596300263,-34.77572278919454,0 -54.48451579651147,-34.76343527339685,0 -54.45517254200857,-34.75016736561815,0 -54.43875668150639,-34.74361678503299,0 -54.42634831913076,-34.73892806710051,0 -54.40663167722302,-34.73236527793001,0 -54.39016143671584,-34.72590030348967,0 -54.37163060201221,-34.71911541498371,0 -54.35273100856474,-34.71127577586817,0 -54.32737390151771,-34.70119928597214,0 -54.30266005030035,-34.69118469893332,0 -54.28119561465707,-34.68448467913372,0 -54.28061117946007,-34.68435136682373,0</coordinates>
+            </LineString>
+          </Placemark>
+        </Folder>
+        <Folder xmlns="">
           <name>Registros</name>
-          <Folder xmlns="">
+          <Folder>
             <name>202604</name>
             <Placemark>
               <name>05/04/2026 - 07:41 - A definir ave</name>
@@ -1148,48 +1203,6 @@
               </Point>
             </Placemark>
           </Folder>
-        </Folder>
-        <Folder>
-          <name>Area - PMPuy | Tramo 2 | Sector E</name>
-          <Placemark>
-            <name>PMPuy | Tramo 2 | Sector E</name>
-            <description>Distancia extremo a extremo Sector E: 37.5km</description>
-            <Camera>
-              <longitude>-54.66199181443409</longitude>
-              <latitude>-34.78691663894024</latitude>
-              <altitude>100404.6980732022</altitude>
-              <heading>4.685380264938996</heading>
-              <tilt>1.156065264527334</tilt>
-              <roll>5.452285883923767</roll>
-              <gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
-            </Camera>
-            <styleUrl>#msn_E</styleUrl>
-            <Point>
-              <gx:drawOrder>1</gx:drawOrder>
-              <coordinates>-54.42036639051456,-34.73943123596455,0</coordinates>
-            </Point>
-          </Placemark>
-          <Placemark>
-            <name>PMPuy | Tramo 2 | Sector E</name>
-            <styleUrl>#msn_ylw-pushpin3</styleUrl>
-            <Polygon>
-              <tessellate>1</tessellate>
-              <outerBoundaryIs>
-                <LinearRing>
-                  <coordinates>-54.632920506216,-34.84609672381558,0 -54.62912387284773,-34.85804552116225,0 -54.61957182310396,-34.85167887367905,0 -54.61840236573744,-34.84206368851598,0 -54.6135664393992,-34.83666497643986,0 -54.6056979485029,-34.8330981288965,0 -54.59133815928895,-34.82797376255305,0 -54.56313506066805,-34.8128305652983,0 -54.50593338296551,-34.78658552463678,0 -54.47596185829497,-34.77413575174537,0 -54.44202010811959,-34.75768173247931,0 -54.40353654983397,-34.74303725192241,0 -54.3756630857887,-34.73199223127328,0 -54.3010034277299,-34.70270400409299,0 -54.27964843986594,-34.69681709820354,0 -54.28084994951958,-34.68135075840646,0 -54.29190913180749,-34.68416956117868,0 -54.33151479310539,-34.70139384000838,0 -54.35712473043143,-34.71221823426353,0 -54.39289588681479,-34.72655971500764,0 -54.42362678645548,-34.73734867363452,0 -54.46013826557501,-34.75104117522041,0 -54.49109457859832,-34.76426420099421,0 -54.50932113358738,-34.77362644282193,0 -54.53269435743245,-34.78457040282883,0 -54.54984228683422,-34.79310546310685,0 -54.57332329723196,-34.80432452522853,0 -54.57509967330908,-34.80258403086504,0 -54.59225499828301,-34.81054443226991,0 -54.60135064834529,-34.8153714962104,0 -54.61373186637443,-34.82145659832671,0 -54.62442128984749,-34.82858837654344,0 -54.62966211565088,-34.83153824827131,0 -54.6326471377438,-34.83419819305795,0 -54.6338772236614,-34.83837050438425,0 -54.63465377293667,-34.83943545814812,0 -54.6333001565938,-34.84354058677814,0 -54.63297253700117,-34.84483210745927,0 -54.63317814418552,-34.8457297867447,0 -54.632920506216,-34.84609672381558,0</coordinates>
-                </LinearRing>
-              </outerBoundaryIs>
-            </Polygon>
-          </Placemark>
-          <Placemark>
-            <name>Distancia - PMPuy | Tramo 2 | Sector E</name>
-            <description>Distancia de extremo a extremo: 37.5km</description>
-            <styleUrl>#m_ylw-pushpin</styleUrl>
-            <LineString>
-              <tessellate>1</tessellate>
-              <coordinates>-54.632914119843,-34.84607044102784,0 -54.6327112369116,-34.84561825234127,0 -54.63236392519947,-34.84534920300152,0 -54.63176367069179,-34.84538959215678,0 -54.63147053951023,-34.84524758050925,0 -54.63195800644157,-34.84492236633074,0 -54.63201028746823,-34.84492308621142,0 -54.63201776915802,-34.84492315670764,0 -54.63225971732554,-34.84454025721631,0 -54.63228947344417,-34.84454736656246,0 -54.63229698295248,-34.84454750762146,0 -54.63236549703223,-34.8445290523528,0 -54.6327157271683,-34.84266580590883,0 -54.63269143666826,-34.83951998763568,0 -54.63202262367967,-34.83840182209079,0 -54.63082233421476,-34.83629133638934,0 -54.62689080284337,-34.83195746659534,0 -54.62401770204097,-34.82982420133457,0 -54.61756750791124,-34.82500756361478,0 -54.60948301122121,-34.82120271117542,0 -54.59984955233814,-34.81663920619912,0 -54.58377558786511,-34.8093102479632,0 -54.57239672677899,-34.80419997124653,0 -54.54075729551187,-34.789439670322,0 -54.51087596300263,-34.77572278919454,0 -54.48451579651147,-34.76343527339685,0 -54.45517254200857,-34.75016736561815,0 -54.43875668150639,-34.74361678503299,0 -54.42634831913076,-34.73892806710051,0 -54.40663167722302,-34.73236527793001,0 -54.39016143671584,-34.72590030348967,0 -54.37163060201221,-34.71911541498371,0 -54.35273100856474,-34.71127577586817,0 -54.32737390151771,-34.70119928597214,0 -54.30266005030035,-34.69118469893332,0 -54.28119561465707,-34.68448467913372,0 -54.28061117946007,-34.68435136682373,0</coordinates>
-            </LineString>
-          </Placemark>
         </Folder>
       </Folder>
       <atom:link href="https://www.google.com/earth/about/versions/#earth-pro" rel="app" title="Google Earth Pro 7.3.7.1094" />
