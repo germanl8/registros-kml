@@ -8,7 +8,7 @@
       <Link>
         <href>https://script.google.com/macros/s/AKfycbzUHJ3wUPI5XCb65m0aFVOB8E1ve66axRDFnAmxpChjdSBxYU_YmPXaQ9l-g9D4VcJc/exec?mode=data</href>
         <refreshMode>onInterval</refreshMode>
-        <refreshInterval>10</refreshInterval>
+        <refreshInterval>90</refreshInterval>
       </Link>
     </NetworkLink>
   </Document>
