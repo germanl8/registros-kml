@@ -1086,19 +1086,6 @@
                 <coordinates>-54.746436,-34.871647,0</coordinates>
               </Point>
             </Placemark>
-            <Placemark>
-              <name>05/04/2026 - 11:21 - delfin</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 11:21<br>Tipo: Ejemplar vivo<br>Codigo: 1<br>Especie: delfin<br>Referencia: ref<br>Registrante: test german<br><br>Notas: test<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1SdetBVksAbkb9ULgXE9UuNjcFgdcGlvF.jpg"/>]]></description>
-              <LookAt>
-                <longitude>-55.044980216197324</longitude>
-                <latitude>-34.91306763897979</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-55.044980216197324,-34.91306763897979,0</coordinates>
-              </Point>
-            </Placemark>
           </Folder>
         </Folder>
       </Folder>
