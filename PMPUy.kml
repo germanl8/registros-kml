@@ -1033,7 +1033,7 @@
             <name>202604</name>
             <Placemark>
               <name>03/04/2026 - 07:41 - Careta careta</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 03/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Careta careta<br>Referencia: Huella Calzado 41 30cm<br>Registrante: Pablo Rubens Faget <br><br>Notas: Polo Club ruta 10<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396757515_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396764327_1.jpg"/>]]></description>
+              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 03/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Careta careta<br>Referencia: Huella Calzado 41 30cm<br>Registrante: Pablo Rubens Faget <br><br>Notas: Polo Club ruta 10<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396975098_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396981204_1.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.746436</longitude>
                 <latitude>-34.871647</latitude>
@@ -1042,6 +1042,19 @@
               <styleUrl>#msn_caudal</styleUrl>
               <Point>
                 <coordinates>-54.746436,-34.871647,0</coordinates>
+              </Point>
+            </Placemark>
+            <Placemark>
+              <name>05/04/2026 - 09:45 - pinniped</name>
+              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 09:45<br>Tipo: Carcasa<br>Codigo: 5<br>Especie: pinniped<br>Referencia: ref test<br>Registrante: Test German<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397049630_0.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.954604033055425</longitude>
+                <latitude>-34.93532875713326</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.954604033055425,-34.93532875713326,0</coordinates>
               </Point>
             </Placemark>
           </Folder>
@@ -1097,7 +1110,7 @@
             <name>202604</name>
             <Placemark>
               <name>05/04/2026 - 07:41 - A definir ave</name>
-              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 3<br>Especie: A definir ave<br>Referencia: Marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento sur<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396772352_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396779298_1.jpg"/>]]></description>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 07:41<br>Tipo: Carcasa<br>Codigo: 3<br>Especie: A definir ave<br>Referencia: Marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento sur<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396988203_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396995024_1.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.564769</longitude>
                 <latitude>-34.800931</latitude>
@@ -1110,7 +1123,7 @@
             </Placemark>
             <Placemark>
               <name>05/04/2026 - 08:01 - Sp pinnipedo</name>
-              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:01<br>Tipo: Carcasa<br>Codigo: 3<br>Especie: Sp pinnipedo<br>Referencia: Marcador y cinta metrica 90cm<br>Registrante: Pablo Rubens Faget <br><br>Notas:  tormenta disminuyendo viento sur<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396786106_0.jpg"/>]]></description>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:01<br>Tipo: Carcasa<br>Codigo: 3<br>Especie: Sp pinnipedo<br>Referencia: Marcador y cinta metrica 90cm<br>Registrante: Pablo Rubens Faget <br><br>Notas:  tormenta disminuyendo viento sur<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397000069_0.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.569263</longitude>
                 <latitude>-34.802992</latitude>
@@ -1123,7 +1136,7 @@
             </Placemark>
             <Placemark>
               <name>05/04/2026 - 08:26 - Sp pinn?pedo</name>
-              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:26<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Sp pinn?pedo<br>Referencia: 70cm marcador verde y cinta m?trica <br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento sur. Tormenta amainando<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396793559_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396796445_1.jpg"/>]]></description>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:26<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Sp pinn?pedo<br>Referencia: 70cm marcador verde y cinta m?trica <br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento sur. Tormenta amainando<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397006519_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397009585_1.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.560362</longitude>
                 <latitude>-34.798923</latitude>
@@ -1136,7 +1149,7 @@
             </Placemark>
             <Placemark>
               <name>05/04/2026 - 08:56 - Varios tortugas y pinn?pedos</name>
-              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:56<br>Tipo: Esqueleto<br>Codigo: 4<br>Especie: Varios tortugas y pinn?pedos <br>Referencia: Marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Grupo de carcasas mezclados<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396807313_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775396834984_1.jpg"/>]]></description>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 08:56<br>Tipo: Esqueleto<br>Codigo: 4<br>Especie: Varios tortugas y pinn?pedos <br>Referencia: Marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Grupo de carcasas mezclados<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397017324_0.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/img_1775397045612_1.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.555486</longitude>
                 <latitude>-34.796435</latitude>
