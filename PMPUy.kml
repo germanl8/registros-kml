@@ -1203,8 +1203,8 @@
               </Point>
             </Placemark>
             <Placemark>
-              <name>05/04/2026 - 12:28 - pinnipedo</name>
-              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 12:28<br>Tipo: Carcasa<br>Codigo: 5<br>Especie: pinnipedo<br>Referencia: ref test<br>Registrante: test german<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/19Hb14Bn6yOufA5V-VwQtH60-iRY8rUXi.jpg"/>]]></description>
+              <name>05/04/2026 - 12:28 - Tortuga</name>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 05/04/2026<br>Hora: 12:28<br>Tipo: Carcasa<br>Codigo: 5<br>Especie: Tortuga<br>Referencia: ref test<br>Registrante: test german<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/19Hb14Bn6yOufA5V-VwQtH60-iRY8rUXi.jpg"/>]]></description>
               <LookAt>
                 <longitude>-54.29742288569819</longitude>
                 <latitude>-34.68869098485948</latitude>
