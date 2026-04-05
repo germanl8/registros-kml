@@ -1087,19 +1087,6 @@
               </Point>
             </Placemark>
             <Placemark>
-              <name>05/04/2026 - 13:00 - delfin</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 13:00<br>Tipo: Ejemplar vivo<br>Codigo: 1<br>Especie: delfin<br>Referencia: test ref<br>Registrante: test ger<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1NrghAxcpNmnuuehZeDV9Ov9CDYtTyvDv.jpg"/>]]></description>
-              <LookAt>
-                <longitude>-55.03429786966107</longitude>
-                <latitude>-34.90943046850166</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-55.03429786966107,-34.90943046850166,0</coordinates>
-              </Point>
-            </Placemark>
-            <Placemark>
               <name>05/04/2026 - 13:55 - Tortuga</name>
               <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 13:55<br>Tipo: Carcasa<br>Codigo: 2<br>Especie: Tortuga<br>Referencia: test ref<br>Registrante: tes german<br><br>Notas: test notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/10GgP_buDEXnSH0yYQvC2R_wNh9Orv-pa.jpg"/>]]></description>
               <LookAt>
