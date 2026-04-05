@@ -1086,19 +1086,6 @@
                 <coordinates>-54.746436,-34.871647,0</coordinates>
               </Point>
             </Placemark>
-            <Placemark>
-              <name>05/04/2026 - 11:08 - pinni</name>
-              <description><![CDATA[Area: Tramo 2 | Sector D<br><br>Fecha: 05/04/2026<br>Hora: 11:08<br>Tipo: Ejemplar vivo<br>Codigo: 1<br>Especie: pinni<br>Referencia: ref<br>Registrante: ger<br><br>Notas: notas<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1fYKwbr0m5xAPcXf2RdzwywpUbwY2BUQ5.jpg"/>]]></description>
-              <LookAt>
-                <longitude>-55.00781064784016</longitude>
-                <latitude>-34.909532926213686</latitude>
-                <range>500</range>
-              </LookAt>
-              <styleUrl>#msn_caudal</styleUrl>
-              <Point>
-                <coordinates>-55.00781064784016,-34.909532926213686,0</coordinates>
-              </Point>
-            </Placemark>
           </Folder>
         </Folder>
       </Folder>
