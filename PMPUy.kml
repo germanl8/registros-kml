@@ -1228,6 +1228,19 @@
                 <coordinates>-54.524391,-34.782118,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>06/04/2026 - 10:11 - Sp ave</name>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 06/04/2026<br>Hora: 10:11<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Sp ave<br>Referencia: Marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: <br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1P_4i0PVNC1Cup8U082cJlGUXFqu-a8sc.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/102yaPneY7kHJvjZjMpj_GX_Z-VK4yRed.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1XU45Ykh3CEeTox5jLrn38H9qfxU-5O-a.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.523883</longitude>
+                <latitude>-34.78168</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.523883,-34.78168,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
