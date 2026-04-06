@@ -1215,6 +1215,19 @@
                 <coordinates>-54.533658,-34.786331,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>06/04/2026 - 10:00 - Sp pinn?pedo</name>
+              <description><![CDATA[Area: Tramo 2 | Sector E<br><br>Fecha: 06/04/2026<br>Hora: 10:00<br>Tipo: Carcasa<br>Codigo: 4<br>Especie: Sp pinn?pedo <br>Referencia: Cinta m?trica y marcador verde <br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento del Este amainando<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1xhAVgHypckATfBmRjtDombwrDJH9Xsfs.jpg"/><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1v8bMg1Y3HaFhxTFcLVquOrToMhCUIUdU.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.524391</longitude>
+                <latitude>-34.782118</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.524391,-34.782118,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
