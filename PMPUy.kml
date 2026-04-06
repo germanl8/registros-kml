@@ -1241,6 +1241,19 @@
                 <coordinates>-54.523883,-34.78168,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>06/04/2026 - 13:20 - Caretta caretta</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 06/04/2026<br>Hora: 13:20<br>Tipo: Carcasa<br>Código: 2<br>Especie: Caretta caretta<br>Referencia: Marcador verde y Cinta metrica<br>Registrante: Pablo Rubens Faget<br><br>Notas: dia post tormenta viento sur<br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/10qSZwpUbtKjcPB0ncw_Ir9_ZTZmDZw00.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.690754</longitude>
+                <latitude>-34.847414</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.690754,-34.847414,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
