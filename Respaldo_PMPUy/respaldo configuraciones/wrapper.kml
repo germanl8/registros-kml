@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>PMPUy Wrapper</name>
+    <NetworkLink>
+      <name>PMPUy datos</name>
+      <open>1</open>
+      <Link>
+        <href>https://script.google.com/macros/s/AKfycbzUHJ3wUPI5XCb65m0aFVOB8E1ve66axRDFnAmxpChjdSBxYU_YmPXaQ9l-g9D4VcJc/exec?mode=data</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>90</refreshInterval>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
