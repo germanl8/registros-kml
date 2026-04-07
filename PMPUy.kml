@@ -977,6 +977,22 @@
         </Folder>
         <Folder xmlns="">
           <name>Registros</name>
+          <Folder>
+            <name>202603</name>
+            <Placemark>
+              <name>25/03/2026 - 14:00 - Delphinus delphis</name>
+              <description><![CDATA[Área: Tramo 2 | Sector B<br><br>Fecha: 25/03/2026<br>Hora: 14:00<br>Tipo: Carcasa<br>Código: 2<br>Especie: Delphinus delphis <br>Referencia: Medido en necropsia<br>Registrante: Pablo Rubens Faget <br><br>Notas: Llevado a FacVeterinaria <br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1vj94j2mW_X0hqu_xCSlffv6yzsHDS6CN.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/190wDXV7o87VWybmPokqTW9tWpCSuG-Dz.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/19SVZJ9u-5WXdW7AlZhSwn4dUZymkAqWL.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1rpqeNUPomYAUgIN07nGFqTQfEFCHoB9v.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1EDI4d3Jsrm8gV7td7xXoRs2P73B-k5T8.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-55.25234</longitude>
+                <latitude>-34.900773</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-55.25234,-34.900773,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <!-- ===================== SECTOR C ===================== -->
