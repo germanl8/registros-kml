@@ -1296,6 +1296,19 @@
                 <coordinates>-54.631627,-34.845377,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>23/03/2026 - 16:40 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 23/03/2026<br>Hora: 16:40<br>Tipo: Carcasa<br>Código: 3<br>Especie: Sp pinnípedo <br>Referencia: Zapatos 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Lluvia<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1tJSC3QCBPN_AL1ro6RuQ4U7GuXt6bn1a.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1vEdnkP6YGGgFoT28fzrmy9FPr_p4fcwm.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.856175</longitude>
+                <latitude>-34.917588</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.856175,-34.917588,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
