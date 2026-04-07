@@ -1255,6 +1255,22 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder>
+            <name>202603</name>
+            <Placemark>
+              <name>21/03/2026 - 08:00 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 21/03/2026<br>Hora: 08:00<br>Tipo: Esqueleto<br>Código: 5<br>Especie: Sp pinnípedo <br>Referencia: PIE 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1eq1x9mCokYUKTSwaHgLV_Yabl9a5Bfdf.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.490701</longitude>
+                <latitude>-34.766543</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.490701,-34.766543,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <atom:link href="https://www.google.com/earth/about/versions/#earth-pro" rel="app" title="Google Earth Pro 7.3.7.1094" />
