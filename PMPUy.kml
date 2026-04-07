@@ -1283,6 +1283,19 @@
                 <coordinates>-54.505147,-34.773219,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>22/03/2026 - 09:10 - Indefinida sp cetáceo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 22/03/2026<br>Hora: 09:10<br>Tipo: Carcasa<br>Código: 5<br>Especie: Indefinida sp cetáceo<br>Referencia: Chancleta 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Fue retirado por cuadrilla de limpieza de playas de José Ignacio <br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1Of4-LvHG0zctnMODvdDQN9NsEKs6pGWg.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/10iVjgs8drQah_isOasUMR2rJDYCiIZ_J.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1PvMiTyYgSZu8oYwV1X_Ab2geYVC7HUmq.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1HnGbj3qBkB90AEfi-1Gh0Nden4MDbw2n.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/12jS5LvPt8DJTG4sECIqzWE15pkFfwk_9.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.631627</longitude>
+                <latitude>-34.845377</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.631627,-34.845377,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
