@@ -1129,6 +1129,22 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder>
+            <name>202603</name>
+            <Placemark>
+              <name>26/03/2026 - Caretta caretta</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 26/03/2026<br>Hora: 14:00<br>Tipo: Carcasa<br>Código: 2<br>Especie: Caretta caretta<br>Referencia: Cinta métrica <br>Registrante: Pablo Rubens Faget <br><br>Notas: Dos marcas brasileñas en aletas anteriores<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1l6uDn6CkqrIBmwptZUuE39tnLA18sW0K.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1j75B3oQhGy_297iquxYkb7OdfbLirD41.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1-Fum78bQYiPGgIbOyC3tKuzBuWd7wa_Y.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1DyBCayBXSZLLBGixmobEi8cFww8X-qdH.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1qOzmqJFzoNnukYBSzo5bW1cL02theNwE.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.871175</longitude>
+                <latitude>-34.921701</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.871175,-34.921701,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <Folder>
