@@ -1381,6 +1381,22 @@
               </Point>
             </Placemark>
           </Folder>
+          <Folder>
+            <name>002603</name>
+            <Placemark>
+              <name>28/03/0026 - Pontoporia blainvillei</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 28/03/0026<br>Hora: 00:35<br>Tipo: Carcasa<br>Código: 3<br>Especie: Pontoporia blainvillei <br>Referencia: Cinta métrica <br>Registrante: Pablo Rubens Faget <br><br>Notas: Germán acompaña monitoreo<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1Rs07DqDPbyPFAXjVZ95WHjTv9yM1iAFe.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1tLCm2zeTpsKtYlRizw5_UHiRaTvNL_Pk.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1Bs2KEaSq4I9TrqRoYc1A67T6wdpCR3Fg.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.595222</longitude>
+                <latitude>-34.814885</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.595222,-34.814885,0</coordinates>
+              </Point>
+            </Placemark>
+          </Folder>
         </Folder>
       </Folder>
       <atom:link href="https://www.google.com/earth/about/versions/#earth-pro" rel="app" title="Google Earth Pro 7.3.7.1094" />
