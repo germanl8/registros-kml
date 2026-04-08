@@ -1367,6 +1367,19 @@
                 <coordinates>-54.856175,-34.917588,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>27/03/2026 - Spheniscus magellanicus</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 27/03/2026<br>Hora: 09:15<br>Tipo: Carcasa<br>Código: 3<br>Especie: Spheniscus magellanicus<br>Referencia: Calzado 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1HVO837WxBrH9v6envq6DCvRN25HJKckn.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.627213</longitude>
+                <latitude>-34.832527</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.627213,-34.832527,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
