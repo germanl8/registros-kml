@@ -992,6 +992,19 @@
                 <coordinates>-55.25234,-34.900773,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>26/03/2026 - Pingüino Magallanes. Spheniscus magellanicus</name>
+              <description><![CDATA[Área: Tramo 2 | Sector B<br><br>Fecha: 26/03/2026<br>Hora: 10:52<br>Tipo: Carcasa<br>Código: 2<br>Especie: Pingüino Magallanes. Spheniscus magellanicus<br>Referencia: Zpatilla 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Hablé con 4 guardavidas <br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1K85ZCbUf1pVDGfk4is2lw-z0DrQXRI3F.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1Kgr6MJp2kzklLpIVUk5zV_zKVPpbRwv7.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-55.105216</longitude>
+                <latitude>-34.878312</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-55.105216,-34.878312,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
