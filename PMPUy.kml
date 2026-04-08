@@ -1380,6 +1380,19 @@
                 <coordinates>-54.627213,-34.832527,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>27/03/2026 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 27/03/2026<br>Hora: 00:40<br>Tipo: Carcasa<br>Código: 4<br>Especie: Sp pinnípedo <br>Referencia: Cinta métrica <br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1RqGHpjsxqJE5OWAMxz28nqFCHnMVujIQ.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/15xfNg9I-ay--NTN227SFde3y1YXQ4H9K.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1mhAR_Np7Zz1VMm8duqJfZbBHWCRj_iUv.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.592965</longitude>
+                <latitude>-34.813787</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.592965,-34.813787,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>002603</name>
