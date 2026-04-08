@@ -1396,6 +1396,19 @@
                 <coordinates>-54.592965,-34.813787,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>28/03/2026</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 28/03/2026<br>Hora: 10:15<br>Tipo: Carcasa<br>Código: 4<br>Especie: <br>Referencia: Sp reptil tortuga<br>Registrante: Pablo Rubens Faget <br><br>Notas: Referencia y mas fotos... ver con Germán que acompañó el monitoreo <br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1cfeIA0IV2NbYOQTVzZKuSIo85esOPPGo.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1pJkVQKWcmN5KNSiwQ3Z3FgDJ-mJlfuns.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.723839</longitude>
+                <latitude>-34.860859</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.723839,-34.860859,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>002603</name>
