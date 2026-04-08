@@ -1131,6 +1131,19 @@
                 <coordinates>-54.746436,-34.871647,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>04/04/2026 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 04/04/2026<br>Hora: 11:20<br>Tipo: Carcasa<br>Código: 3<br>Especie: Sp pinnípedo <br>Referencia: Sin referencia. 90cm largo<br>Registrante: Pablo Rubens Faget <br><br>Notas: Viento sur. Caranchos y Buitres comiendolo<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1N8A6M30ELFVNt2MCXazjvHW15PfxNqtu.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1_9ovju04qT8niSPtABYXPkodF99W2oq2.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1d6shsi6r9wDrIoG0_deCIQRz3_fDgSLs.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1Yxze2gcJhwm6uQO2a2Zdasf2MzPiwoXY.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1XCtbIUriYQ7l3UhadKP-U4lmk2dsG3jy.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.768723</longitude>
+                <latitude>-34.882619</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.768723,-34.882619,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
