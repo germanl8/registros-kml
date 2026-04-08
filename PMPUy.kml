@@ -1144,6 +1144,19 @@
                 <coordinates>-54.768723,-34.882619,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>04/04/2026 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 04/04/2026<br>Hora: 11:30<br>Tipo: Carcasa<br>Código: 4<br>Especie: Sp pinnípedo <br>Referencia: Sin<br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin aletas posteriores y sin cabeza<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1TqzeZHSHYFfBMlT-_YOA9UVcj9XzjMTY.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1A2RBeAbvPn4-JECf4YyOth7rAuy0W7n5.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.766888</longitude>
+                <latitude>-34.881715</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.766888,-34.881715,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
