@@ -1005,6 +1005,19 @@
                 <coordinates>-55.105216,-34.878312,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>26/03/2026 - Sp reptil tortuga</name>
+              <description><![CDATA[Área: Tramo 2 | Sector B<br><br>Fecha: 26/03/2026<br>Hora: 10:25<br>Tipo: Esqueleto<br>Código: 4<br>Especie: Sp reptil tortuga<br>Referencia: Zapatilla 41<br>Registrante: Pablo Rubens Faget <br><br>Notas: Avisaron de 2 tortugas pero solo encontré una<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1ep0pT-acVdmncJF01zQ1d5dpIyeG6RnX.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1BB-6KVic4c1Fk0Z4mtvn8lgSJxxJdLzf.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-55.11718</longitude>
+                <latitude>-34.879062</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-55.11718,-34.879062,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
         </Folder>
       </Folder>
