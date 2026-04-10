@@ -1170,6 +1170,20 @@
                 <coordinates>-54.6528,-34.838626,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>10/04/2026 - A definir</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 10/04/2026<br>Hora: 07:30<br>Tipo: Carcasa<br>Código: 2<br>Especie: A definir <br>Referencia: Cinta métrica  y marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Post tormenta de tres dias.
+Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1j1Se8aV8StvYK2ESZRUbOW5fVZT-zZ0L.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1WY2uQuN8NX_E-F-iC06oyjLyt_OfMJRQ.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1siYaptZQ-9Q7A28uyXoqmjEg6De11chh.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1iC5Dnc71mko5S3ZOQj0od9GOaAxddXok.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.9401965</longitude>
+                <latitude>-34.9646819</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.9401965,-34.9646819,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
