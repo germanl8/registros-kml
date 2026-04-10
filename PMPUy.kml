@@ -1184,6 +1184,19 @@ Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw
                 <coordinates>-54.9401965,-34.9646819,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>10/04/2026 - Pardwla cabeza negra a confirmar</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 10/04/2026<br>Hora: 07:47<br>Tipo: Carcasa<br>Código: 3<br>Especie: Pardwla cabeza negra a confirmar<br>Referencia: Cinta metrica y marcador verde<br>Registrante: Pablo Rubens Faget <br><br>Notas: Misma región de las otras 3<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1avbOfB5MsFu4pFFKelKsiszFXz1olsPk.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1UuqNgraSED4hoaVhzqzjhEoT41PiNkow.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.940714</longitude>
+                <latitude>-34.964308</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.940714,-34.964308,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
