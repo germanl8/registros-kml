@@ -1381,6 +1381,19 @@ Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw
                 <coordinates>-54.690754,-34.847414,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>11/04/2026 - Spheniscus magellanicus??</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 11/04/2026<br>Hora: 11:05<br>Tipo: Carcasa<br>Código: 3<br>Especie: Spheniscus magellanicus??<br>Referencia: Cinta métrica y marcador verde <br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1lwbPcOFkts-I56q7eJvHIXqghVNnFKcK.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1H2FAq0BG7ig1sDpSWvnor4sPlxwJHi96.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.28019</longitude>
+                <latitude>-34.684442</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.28019,-34.684442,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
