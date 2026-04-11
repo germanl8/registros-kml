@@ -1407,6 +1407,19 @@ Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw
                 <coordinates>-54.271948,-34.682307,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>11/04/2026 - Sp pinnípedo</name>
+              <description><![CDATA[Área: Tramo 2 | Sector E<br><br>Fecha: 11/04/2026<br>Hora: 11:50<br>Tipo: Carcasa<br>Código: 4<br>Especie: Sp pinnípedo <br>Referencia: Cinta métrica y marcador verde <br>Registrante: Pablo Rubens Faget <br><br>Notas: Sin<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1uKDrW7CH7EEQcH_HoOKzCjTxoEDEgLCa.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1fXUx_dwyO22RL27sVPZ4MrmILFGfsdSg.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/17Wtj2sjggpotCxXgBaPTAWHrpnZrKJxh.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.2719</longitude>
+                <latitude>-34.682294</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.2719,-34.682294,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
