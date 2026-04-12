@@ -1197,6 +1197,19 @@ Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw
                 <coordinates>-54.940714,-34.964308,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>12/04/2026 - A definir</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 12/04/2026<br>Hora: 11:25<br>Tipo: Carcasa<br>Código: 4<br>Especie: A definir<br>Referencia: Cinta métrica y marcador verde <br>Registrante: Pablo Rubens Faget <br><br>Notas: Barra cerrada<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/12wQn7d3TzBXVHUj5h8vBOROh2u-fIqeM.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.6732507</longitude>
+                <latitude>-34.8421701</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.6732507,-34.8421701,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
