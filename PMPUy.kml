@@ -1239,6 +1239,19 @@ Tres individuos juntos<br><br><br><img style="max-width:500px;" src="https://raw
                 <coordinates>-54.674854,-34.843291,0</coordinates>
               </Point>
             </Placemark>
+            <Placemark>
+              <name>20/04/2026 - Pinnípedo sp</name>
+              <description><![CDATA[Área: Tramo 2 | Sector D<br><br>Fecha: 20/04/2026<br>Hora: 08:50<br>Tipo: Carcasa<br>Código: 4<br>Especie: Pinnípedo sp<br>Referencia: Regla GTV<br>Registrante: Pablo Rubens Faget <br><br>Notas: Nublado, llovizna y viento suave sureste<br><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1-EL0KMFbAQ4RIeGFwfM2oA3rI8byICBI.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/14QUNcSUZGCQ-jLbO8ie96Fxx_Z510IvZ.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1XLtPUAMrVmzEiXSuSXgh5X1xVZHLEroZ.jpg"/><br><br><img style="max-width:500px;" src="https://raw.githubusercontent.com/germanl8/registros-kml/main/imagenes/1uouRw4AEEzWN3r23lOn5_H1du-48dnaH.jpg"/>]]></description>
+              <LookAt>
+                <longitude>-54.841947</longitude>
+                <latitude>-34.912232</latitude>
+                <range>500</range>
+              </LookAt>
+              <styleUrl>#msn_caudal</styleUrl>
+              <Point>
+                <coordinates>-54.841947,-34.912232,0</coordinates>
+              </Point>
+            </Placemark>
           </Folder>
           <Folder>
             <name>202603</name>
